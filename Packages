@@ -27,14 +27,29 @@ Priority: optional
 Description: A CLI tool that implements a data flow graph for deriving cryptocurrency keys and addresses.
 
 Package: seedtool
-Version: 0.9.1
+Version: 0.9.2
 Architecture: all
 Maintainer: Gorazd Kovacic gorazdko@gmail.com (Blockchain Commons)
+Depends: libc++-dev
 Filename: ./seedtool_0.9.1.deb
-Size: 727396
-MD5sum: 285dd33989005689f866639d033fdb70
-SHA1: 5ab31ac82375bd5bcbd3a4f0b0725c0b161d7084
-SHA256: ec26bc1e189024eb9c53d33172a216a64e5d5aeeb8dbf7775a389a05f948285c
+Size: 727408
+MD5sum: af2dfc945c2823d9242a39e362c50a8c
+SHA1: 35f1703013705791599d74f0ec1fbf1f6ba06dce
+SHA256: 8bb06437079d18c49e5668be44ecdc4c230f9de131250e2eeffd31484806fc68
+Section: base
+Priority: optional
+Description: Command Line Implementation in C of Master Cryptographic Seed Tools
+
+Package: seedtool
+Version: 0.9.2
+Architecture: all
+Maintainer: Gorazd Kovacic gorazdko@gmail.com (Blockchain Commons)
+Depends: libc++-dev
+Filename: ./seedtool_0.9.2.deb
+Size: 727408
+MD5sum: af2dfc945c2823d9242a39e362c50a8c
+SHA1: 35f1703013705791599d74f0ec1fbf1f6ba06dce
+SHA256: 8bb06437079d18c49e5668be44ecdc4c230f9de131250e2eeffd31484806fc68
 Section: base
 Priority: optional
 Description: Command Line Implementation in C of Master Cryptographic Seed Tools
