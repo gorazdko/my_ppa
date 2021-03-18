@@ -1,0 +1,15 @@
+Package: helloworld
+Version: 1.0-1
+Architecture: all
+Maintainer: Your Name <you@email.com>
+Filename: ./helloworld_1.0-1.deb
+Size: 3208
+MD5sum: 003b5708f90aa568e538d5c26bb062f0
+SHA1: 43dcc4642171f908a321ff90b29d5a72532e8ad3
+SHA256: 88c89de63d3e8b982090bf78cbf1719a54bcde7a1571efec0c3f25ac65520508
+Section: base
+Priority: optional
+Description: Hello World
+ When you need some sunshine, just run this
+ small program!
+
