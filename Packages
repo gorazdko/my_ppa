@@ -13,3 +13,16 @@ Description: Hello World
  When you need some sunshine, just run this
  small program!
 
+Package: seedtool
+Version: 0.9.1
+Architecture: all
+Maintainer: Gorazd Kovacic gorazdko@gmail.com (Blockchain Commons)
+Filename: ./seedtool_0.9.1.deb
+Size: 727396
+MD5sum: 285dd33989005689f866639d033fdb70
+SHA1: 5ab31ac82375bd5bcbd3a4f0b0725c0b161d7084
+SHA256: ec26bc1e189024eb9c53d33172a216a64e5d5aeeb8dbf7775a389a05f948285c
+Section: base
+Priority: optional
+Description: Command Line Implementation in C of Master Cryptographic Seed Tools
+
