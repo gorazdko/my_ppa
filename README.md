@@ -1,6 +1,10 @@
 # my_ppa
 
 
+## Source
+
+[](https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html)
+
 ## How to install
 
 ```bash
@@ -13,4 +17,10 @@ sudo apt update
 
 ```bash
 sudo apt install seedtool
+```
+
+### Keytool
+
+```bash
+sudo apt install keytool
 ```
