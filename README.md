@@ -4,6 +4,7 @@
 ## Source
 
 [](https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html)
+[](https://ubuntuforums.org/showthread.php?t=910717)
 
 ## How to install
 
